@@ -1,1 +1,2 @@
 create table 
+insert table
